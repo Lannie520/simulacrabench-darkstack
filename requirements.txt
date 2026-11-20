@@ -1,0 +1,5 @@
+# main.py only imports what the SimulacraBench hosted image already carries.
+numpy
+pandas
+scikit-learn
+torch
